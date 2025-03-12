@@ -41,7 +41,7 @@ Participants are tasked with leveraging AI techniques, including supervised, uns
 
 ## Prizes
 
-Top-performing teams will receive **NVIDIA GPUs** as rewards, enhancing their capability for future research and development.
+Top-performing teams will receive **NVIDIA GPUs** as awards*! These can be used for further research!
 
 ## Contest Details
 
@@ -52,3 +52,20 @@ Problem specification scripts and benchmarks will be available shortly.
 The International Workshop on Machine Learning for CAD (MLCAD) is the leading venue dedicated to advancing research at the intersection of machine learning and electronic design automation (EDA). It provides a unique platform for collaboration between academia and industry, fostering innovation and driving progress in AI-driven CAD solutions.
 
 **Join the contest, push the boundaries of EDA, and lead the future of AI in chip design!**
+
+
+## Acknowledgement
+
+We thank NVIDIA for sponsoring the contest, GPU awards, and involvement in organizing this contest.
+
+## Contest organizers
+
+| Name                      | Affiliation     |
+| ------------------------- | --------------- |
+| Registration Opens        | March 15, 2025  |
+| Alpha Submission Deadline | May 15, 2025    |
+| Beta Submission Deadline  | July 15, 2025   |
+| Final Submission Deadline | August 15, 2025 |
+| Results Announcement      | September 2025  |
+
+For questions reach out to: 
