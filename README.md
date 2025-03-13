@@ -1,6 +1,6 @@
 # MLCAD 2025 Contest
 
-<img width="1000" alt="profile" src="etc/ispd_logo.png">
+<img width="1000" alt="profile" src="cover_pic.jpg">
 
 ## ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI
 
