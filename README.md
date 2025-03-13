@@ -62,10 +62,10 @@ We thank NVIDIA for sponsoring the contest, GPU awards, and involvement in organ
 
 | Name                      | Affiliation     |
 | ------------------------- | --------------- |
-| Registration Opens        | March 15, 2025  |
-| Alpha Submission Deadline | May 15, 2025    |
-| Beta Submission Deadline  | July 15, 2025   |
-| Final Submission Deadline | August 15, 2025 |
-| Results Announcement      | September 2025  |
+| Atmadip Dey               | ASU             |
+| Vikram Gopalakrishnan     | ASU             |
+| Rongjian Liang            | NVIDIA          |
+| Yanqing Zhang             | NVIDIA          |
+| Vidya A Chhabria          | ASU             |
 
-For questions reach out to: 
+For questions reach out to: mlcad2025-contest@googlegroups.com
