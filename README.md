@@ -34,14 +34,15 @@ The transformations at the netlist level include gate sizing, buffer insertion, 
 ### Registration
 
 - Registration opens: **March 15, 2025**
-- Registration deadline: **April 15, 2025**
+- Registration deadline: **April 20, 2025**
 - [Register here](https://form.jotform.com/250707549368063) 
 ## Contest Timeline
 
 | Milestone                 | Date            |
 | ------------------------- | --------------- |
+| Contest Begins            | April 15, 2025  |
 | Registration Closes       | April 20, 2025  |
-| Alpha Submission Deadline | May 15, 2025    |
+| Alpha Submission Deadline | May 30, 2025    |
 | Beta Submission Deadline  | July 15, 2025   |
 | Final Submission Deadline | August 10, 2025 |
 | Results Announcement      | September 2025  |
@@ -75,4 +76,4 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 | Yanqing Zhang             | NVIDIA          |
 | Vidya A Chhabria          | ASU             |
 
-For questions reach out to: mlcad2025-contest@googlegroups.com
+For questions, reach out to mlcad2025-contest@googlegroups.com
