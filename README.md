@@ -1,14 +1,16 @@
 # MLCAD 2025 Contest
 
+![MLCAD2025](https://github.com/ASU-VDA-Lab/MLCAD25-Contest/blob/main/etc/MLCAD25.png)
+
 ## ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI
 
 Join the exciting MLCAD 2025 Contest and showcase your innovative skills in combining artificial intelligence with electronic design automation (EDA). This year's challenge, **ReSynthAI**, focuses on Physical-Aware Logic Resynthesis aimed at timing optimization.
 
-![MLCAD2025](https://github.com/ASU-VDA-Lab/MLCAD25-Contest/blob/main/etc/MLCAD25.png)
-
 ## Contest Overview
 
-Participants are tasked with leveraging AI techniques, including supervised, unsupervised, and reinforcement learning, to perform logic resynthesis. The challenge emphasizes the importance of physical awareness, ensuring decisions made post logic synthesis improve post global route quality of results. The transformations at the netlist level include gate sizing, buffer insertion, Vt swaps, gate cloning, and combinational logic restructuring. 
+Participants are tasked with leveraging AI techniques, including supervised, unsupervised, and reinforcement learning, to perform logic resynthesis. The challenge emphasizes the importance of physical awareness, ensuring that decisions made post-logic synthesis improve the post-global route quality of results as shown in the figure below. The transformations at the netlist level include gate sizing, buffer insertion, Vt swaps, gate cloning, and combinational logic restructuring. 
+
+![MLCAD2025](https://github.com/ASU-VDA-Lab/MLCAD25-Contest/blob/main/etc/contestant_flow.png)
 
 
 ### Contest Challenges Include:
@@ -16,6 +18,7 @@ Participants are tasked with leveraging AI techniques, including supervised, uns
 - Applying machine learning techniques (supervised, unsupervised, reinforcement learning) for logic resynthesis.
 - Ensuring physical awareness in resynthesis and ensuring routability without congestion overflows.
 - Demonstrating timing improvements post global route by performing netlist optimizations post logic synthesis. 
+
 
 ## Why Participate?
 
