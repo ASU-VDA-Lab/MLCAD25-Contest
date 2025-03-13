@@ -1,5 +1,5 @@
 
-<img width="1000" alt="profile" src="cover_pic.jpg">
+<img width="1000" alt="profile" src="etc/MLCAD25.png">
 
 # **ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI**
 
@@ -10,7 +10,8 @@ Join the exciting MLCAD 2025 Contest and showcase your innovative skills in comb
 
 Participants are tasked with leveraging AI techniques, including supervised, unsupervised, and reinforcement learning, to perform logic resynthesis. The challenge emphasizes the importance of physical awareness, ensuring that decisions made post-logic synthesis improve the post-global route quality of results as shown in the figure below. The transformations at the netlist level include gate sizing, buffer insertion, Vt swaps, gate cloning, and combinational logic restructuring. 
 
-![MLCAD2025](https://github.com/ASU-VDA-Lab/MLCAD25-Contest/blob/main/etc/contestant_flow.jpg)
+<img width="1000" alt="profile" src="/contestant_flow.jpg">
+
 
 
 ### Contest Challenges Include:
