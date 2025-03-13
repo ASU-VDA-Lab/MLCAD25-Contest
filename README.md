@@ -35,8 +35,7 @@ The transformations at the netlist level include gate sizing, buffer insertion, 
 
 - Registration opens: **March 15, 2025**
 - Registration deadline: **April 15, 2025**
-- [Register here](#) *(https://form.jotform.com/250707549368063)*
-
+- [Register here](https://form.jotform.com/250707549368063) 
 ## Contest Timeline
 
 | Milestone                 | Date            |
