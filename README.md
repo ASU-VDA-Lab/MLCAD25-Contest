@@ -4,6 +4,8 @@
 
 Join the exciting MLCAD 2025 Contest and showcase your innovative skills in combining artificial intelligence with electronic design automation (EDA). This year's challenge, **ReSynthAI**, focuses on Physical-Aware Logic Resynthesis aimed at timing optimization.
 
+![MLCAD2025](https://github.com/ASU-VDA-Lab/MLCAD25-Contest/blob/main/etc/MLCAD25.png)
+
 ## Contest Overview
 
 Participants are tasked with leveraging AI techniques, including supervised, unsupervised, and reinforcement learning, to perform logic resynthesis. The challenge emphasizes the importance of physical awareness, ensuring decisions made post logic synthesis improve post global route quality of results. The transformations at the netlist level include gate sizing, buffer insertion, Vt swaps, gate cloning, and combinational logic restructuring. 
