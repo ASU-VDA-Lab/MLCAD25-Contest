@@ -1,6 +1,6 @@
 # MLCAD 2025 Contest
 
-![MLCAD2025](https://github.com/ASU-VDA-Lab/MLCAD25-Contest/blob/main/etc/MLCAD25.png)
+<img width="1000" alt="profile" src="etc/ispd_logo.png">
 
 ## ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI
 
