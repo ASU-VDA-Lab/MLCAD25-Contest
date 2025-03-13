@@ -32,7 +32,7 @@ Participants are tasked with leveraging AI techniques, including supervised, uns
 
 - Registration opens: **March 15, 2025**
 - Registration deadline: **April 15, 2025**
-- [Register here](#) *(Link to be updated)*
+- [Register here](#) *(https://form.jotform.com/250707549368063)*
 
 ## Contest Timeline
 
