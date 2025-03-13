@@ -33,10 +33,10 @@ Participants are tasked with leveraging AI techniques, including supervised, uns
 
 | Milestone                 | Date            |
 | ------------------------- | --------------- |
-| Registration Opens        | March 15, 2025  |
+| Registration Closes       | April 20, 2025  |
 | Alpha Submission Deadline | May 15, 2025    |
 | Beta Submission Deadline  | July 15, 2025   |
-| Final Submission Deadline | August 15, 2025 |
+| Final Submission Deadline | August 10, 2025 |
 | Results Announcement      | September 2025  |
 
 ## Prizes
@@ -56,7 +56,7 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 
 ## Acknowledgement
 
-We thank NVIDIA for sponsoring the contest, GPU awards, and involvement in organizing this contest.
+*We thank NVIDIA for sponsoring the contest, GPU awards, and involvement in organizing this contest.
 
 ## Contest organizers
 
