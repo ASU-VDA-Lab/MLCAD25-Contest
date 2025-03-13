@@ -1,4 +1,4 @@
-## ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI
+# **ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI**
 <img width="1000" alt="profile" src="cover_pic.jpg">
 
 
