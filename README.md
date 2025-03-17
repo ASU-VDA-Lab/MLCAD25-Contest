@@ -74,6 +74,7 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 | Vikram Gopalakrishnan     | ASU             |
 | Rongjian Liang            | NVIDIA          |
 | Yanqing Zhang             | NVIDIA          |
+| Haoxing (Mark) Ren        | NVIDIA          |
 | Vidya A Chhabria          | ASU             |
 
 For questions, reach out to mlcad2025-contest@googlegroups.com
