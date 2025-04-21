@@ -34,14 +34,14 @@ The transformations at the netlist level include gate sizing, buffer insertion, 
 ### Registration
 
 - Registration opens: **March 15, 2025**
-- Registration deadline: **April 21, 2025**
+- Registration deadline: **April 23, 2025**
 - [Register here](https://form.jotform.com/250707549368063) 
 ## Contest Timeline
 
 | Milestone                 | Date            |
 | ------------------------- | --------------- |
-| Contest Begins            | April 21, 2025  |
-| Registration Closes       | April 21, 2025  |
+| Contest Begins            | April 23, 2025  |
+| Registration Closes       | April 23, 2025  |
 | Alpha Submission Deadline | May 30, 2025    |
 | Beta Submission Deadline  | July 15, 2025   |
 | Final Submission Deadline | August 10, 2025 |
