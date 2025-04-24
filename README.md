@@ -14,10 +14,10 @@ Participants are tasked with leveraging AI techniques, including supervised, uns
 
 The transformations at the netlist level include gate sizing, buffer insertion, Vt swaps, gate cloning, and combinational logic restructuring.
 
-<b> We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
-Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks/blob/main/MLCAD2025-Contest-Problem-Statement.pdf).</b>
+### <b> We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
+### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks/blob/main/MLCAD2025-Contest-Problem-Statement.pdf).</b> 
 
-### Contest Challenges Include:
+## Contest Challenges Include:
 
 - Applying machine learning techniques (supervised, unsupervised, reinforcement learning) for logic resynthesis.
 - Ensuring physical awareness in resynthesis and ensuring routability without congestion overflows.
@@ -30,13 +30,19 @@ Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCA
 - Apply for **travel grants** (available for eligible participants) to MLCAD 2025.
 - Winners will receive high-performance NVIDIA GPUs as prizes!
 
+
 ## Registration and Important Dates
 
-### Registration
+## Registration
 
 - Registration opens: **March 15, 2025**
 - Registration deadline: **April 23, 2025**
-- [Register here](https://form.jotform.com/250707549368063) 
+- Registrations closed. 
+
+## Participants List:
+
+We will add the list of participating teams here. For any querry regarding registration contact us through the email provided at the end of the page.
+
 ## Contest Timeline
 
 | Milestone                 | Date            |
