@@ -14,7 +14,8 @@ Participants are tasked with leveraging AI techniques, including supervised, uns
 
 The transformations at the netlist level include gate sizing, buffer insertion, Vt swaps, gate cloning, and combinational logic restructuring.
 
-
+<b> We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
+Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks/blob/main/MLCAD2025-Contest-Problem-Statement.pdf).</b>
 
 ### Contest Challenges Include:
 
