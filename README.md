@@ -31,7 +31,7 @@ The transformations at the netlist level include gate sizing, buffer insertion, 
 - Winners will receive high-performance NVIDIA GPUs as prizes!
 
 
-## Registration and Important Dates
+## Registration, Participants List, and Important Dates
 
 ## Registration
 
@@ -41,7 +41,37 @@ The transformations at the netlist level include gate sizing, buffer insertion, 
 
 ## Participants List:
 
-We will add the list of participating teams here. For any querry regarding registration contact us through the email provided at the end of the page.
+If you have any questions about registration, please feel free to contact us through the email provided at the end of the page.
+
+| Team Name |  Affiliation | 
+|--------------------|--------------------------------------------|
+| SlugSingal | member |
+| dzzz | The Chinese University of Hong Kong |
+| Blue Team | University of California Santa Cruz | 
+| BluePhone | Independent | 
+| Netlist Ninjas | Nirma University |
+| BW4A | upm | 
+| drexel-ice | Drexel university | 
+| ssatyendras | IMEC |
+| PACE | University of Maryland, College Park |
+| SeDA | UNIST (South Korea) |
+| X_PhyicalSynthesis | Fudan University |
+| CSDL | Pohang University of Science and Technology |
+| ASEEC Lab | University of California, Davis |
+| DibFan | UT Austin |
+| delftBlue | Delft University of Technology |
+| Slug Cricket | 1 |
+| SGCAD | Sogang university |
+| AI4Semi | Samsung Semiconductor | 
+| Randomize | Fudan University |
+| CDA | TUM | 
+| Alrwave | Fudan University | 
+| PhyMap | Fudan University | 
+| ChandraMind | Arizona State University | 
+| LOGIC101 | Arizona State University |
+
+
+
 
 ## Contest Timeline
 
