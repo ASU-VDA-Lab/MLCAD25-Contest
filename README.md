@@ -45,7 +45,7 @@ If you have any questions about registration, please feel free to contact us thr
 
 | Team Name |  Affiliation | 
 |--------------------|--------------------------------------------|
-| SlugSingal | member |
+| SlugSignal | UCSC |
 | dzzz | The Chinese University of Hong Kong |
 | Blue Team | University of California Santa Cruz | 
 | BluePhone | Independent | 
