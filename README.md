@@ -89,8 +89,8 @@ If you have any questions about registration, please feel free to contact us thr
 Top-performing teams will receive **NVIDIA GPUs** as awards*! These can be used for further research!
 
 ## Contest Details
-
-Problem specification scripts and benchmarks will be available shortly. 
+### <b> We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
+ 
 
 ## About MLCAD
 
