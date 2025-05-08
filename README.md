@@ -67,8 +67,8 @@ If you have any questions about registration, please feel free to contact us thr
 | CDA | TUM | 
 | Alrwave | Fudan University | 
 | PhyMap | Fudan University | 
-| ChandraMind | Arizona State University** | 
-| LOGIC101 | Arizona State University** |
+| ChandraMind | Arizona State University* | 
+| LOGIC101 | Arizona State University*|
 
 
 
@@ -86,7 +86,7 @@ If you have any questions about registration, please feel free to contact us thr
 
 ## Prizes
 
-Top-performing teams will receive **NVIDIA GPUs** as awards*! These can be used for further research!
+Top-performing teams will receive **NVIDIA GPUs** as awards! These can be used for further research!
 
 ## Contest Details
 ### <b> We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
@@ -101,7 +101,7 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 
 ## Acknowledgement
 
-*We thank NVIDIA for sponsoring the contest, GPU awards, and involvement in organizing this contest.
+We thank NVIDIA for sponsoring the contest, GPU awards, and involvement in organizing this contest.
 
 ## Contest organizers
 
@@ -116,4 +116,4 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 
 For questions, reach out to mlcad2025-contest@googlegroups.com
 
-** Please note that these teams are not from the research groups organizing the contest. ASU and NVIDIA research teams will not be eligible for prizes even if there are participants from these institutions. 
+* Please note that these teams are not from the research groups organizing the contest. ASU and NVIDIA research teams will not be eligible for prizes even if there are participants from these institutions. 
