@@ -116,4 +116,4 @@ We thank NVIDIA for sponsoring the contest, GPU awards, and involvement in organ
 
 For questions, reach out to mlcad2025-contest@googlegroups.com
 
-* Please note that these teams are not from the research groups organizing the contest. ASU and NVIDIA research teams will not be eligible for prizes even if there are participants from these institutions. 
+Please note that these teams are not from the research groups organizing the contest. ASU and NVIDIA research teams will not be eligible for prizes even if there are participants from these institutions. 
