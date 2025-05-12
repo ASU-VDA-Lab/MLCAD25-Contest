@@ -14,8 +14,8 @@ Participants are tasked with leveraging AI techniques, including supervised, uns
 
 The transformations at the netlist level include gate sizing, buffer insertion, Vt swaps, gate cloning, and combinational logic restructuring.
 
-### <b> We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
-### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks/blob/main/MLCAD2025-Contest-Problem-Statement.pdf).</b> 
+###  We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
+### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks/blob/main/MLCAD2025-Contest-Problem-Statement.pdf).
 
 ## Contest Challenges Include:
 
@@ -47,7 +47,7 @@ If you have any questions about registration, please feel free to contact us thr
 |--------------------|--------------------------------------------|
 | SlugSignal | UCSC |
 | dzzz | The Chinese University of Hong Kong |
-| Blue Team | University of California Santa Cruz | 
+| Blue Team | UCSC | 
 | BluePhone | Independent | 
 | Netlist Ninjas | Nirma University |
 | BW4A | upm | 
@@ -60,7 +60,7 @@ If you have any questions about registration, please feel free to contact us thr
 | ASEEC Lab | University of California, Davis |
 | DibFan | UT Austin |
 | delftBlue | Delft University of Technology |
-| Slug Cricket | 1 |
+| Slug Cricket | UCSC |
 | SGCAD | Sogang university |
 | AI4Semi | Samsung Semiconductor | 
 | Randomize | Fudan University |
@@ -89,7 +89,7 @@ If you have any questions about registration, please feel free to contact us thr
 Top-performing teams will receive **NVIDIA GPUs** as awards! These can be used for further research!
 
 ## Contest Details
-### <b> We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
+###  We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks).
  
 
 ## About MLCAD
@@ -101,7 +101,7 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 
 ## Acknowledgement
 
-We thank NVIDIA for sponsoring the contest, GPU awards, and involvement in organizing this contest.
+We thank NVIDIA for sponsoring the contest, GPU awards, and their involvement in organizing it.
 
 ## Contest organizers
 
