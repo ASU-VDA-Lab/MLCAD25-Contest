@@ -45,6 +45,7 @@ If you have any questions about registration, please feel free to contact us thr
 
 | Team Name |  Affiliation | 
 |--------------------|--------------------------------------------|
+| reinforcedAg | Texas A&M University |
 | SlugSignal | UCSC |
 | dzzz | The Chinese University of Hong Kong |
 | Blue Team | UCSC | 
@@ -69,6 +70,7 @@ If you have any questions about registration, please feel free to contact us thr
 | PhyMap | Fudan University | 
 | ChandraMind | Arizona State University* | 
 | LOGIC101 | Arizona State University*|
+
 
 
 
