@@ -43,33 +43,33 @@ The transformations at the netlist level include gate sizing, buffer insertion, 
 
 If you have any questions about registration, please feel free to contact us through the email provided at the end of the page.
 
-| Team Name |  Affiliation | 
-|--------------------|--------------------------------------------|
-| reinforcedAg | Texas A&M University |
-| SlugSignal | UCSC |
-| dzzz | The Chinese University of Hong Kong |
-| Blue Team | UCSC | 
-| BluePhone | Independent | 
-| Netlist Ninjas | Nirma University |
-| BW4A | upm | 
-| drexel-ice | Drexel university | 
-| ssatyendras | IMEC |
-| PACE | University of Maryland, College Park |
-| SeDA | UNIST (South Korea) |
-| X_PhyicalSynthesis | Fudan University |
-| CSDL | Pohang University of Science and Technology |
-| ASEEC Lab | University of California, Davis |
-| DibFan | UT Austin |
-| delftBlue | Delft University of Technology |
-| Slug Cricket | UCSC |
-| SGCAD | Sogang university |
-| AI4Semi | Samsung Semiconductor | 
-| Randomize | Fudan University |
-| CDA | TUM | 
-| Alrwave | Fudan University | 
-| PhyMap | Fudan University | 
-| ChandraMind | Arizona State University* | 
-| LOGIC101 | Arizona State University*|
+|Team ID|Team Name         |Affiliation                                |
+|-------|------------------|-------------------------------------------|
+|team1  |reinforcedAg      |Texas A&M University                       |
+|team2  |SlugSignal        |UCSC                                       |
+|team3  |dzzz              |The Chinese University of Hong Kong        |
+|team4  |Blue Team         |UCSC                                       |
+|team5  |BluePhone         |Independent                                |
+|team6  |Netlist Ninjas    |Nirma University                           |
+|team7  |BW4A              |upm                                        |
+|team8  |drexel-ice        |Drexel university                          |
+|team9  |ssatyendras       |IMEC                                       |
+|team10 |PACE              |University of Maryland, College Park       |
+|team11 |SeDA              |UNIST (South Korea)                        |
+|team12 |X_PhyicalSynthesis|Fudan University                           |
+|team13 |CSDL              |Pohang University of Science and Technology|
+|team14 |ASEEC Lab         |University of California, Davis            |
+|team15 |DibFan            |UT Austin                                  |
+|team16 |delftBlue         |Delft University of Technology             |
+|team17 |Slug Cricket      |UCSC                                       |
+|team18 |SGCAD             |Sogang university                          |
+|team19 |AI4Semi           |Samsung Semiconductor                      |
+|team20 |Randomize         |Fudan University                           |
+|team21 |CDA               |TUM                                        |
+|team22 |Alrwave           |Fudan University                           |
+|team23 |PhyMap            |Fudan University                           |
+|team24 |ChandraMind       |Arizona State University*                  |
+|team25 |LOGIC101          |Arizona State University*                  |
 
 
 
