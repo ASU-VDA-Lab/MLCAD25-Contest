@@ -24,6 +24,9 @@ The transformations at the netlist level include gate sizing, buffer insertion, 
 - Demonstrating timing improvements post global route by performing netlist optimizations post logic synthesis. 
 
 
+## Updates:
+We have extended the alpha submission deadline to June 15th.
+
 ## Why Participate?
 
 - Showcase your AI-driven EDA innovations and state-of-the-art algorithms for physical-aware logic resynthesis. 
@@ -81,7 +84,7 @@ If you have any questions about registration, please feel free to contact us thr
 | ------------------------- | --------------- |
 | Contest Begins            | April 23, 2025  |
 | Registration Closes       | April 23, 2025  |
-| Alpha Submission Deadline | May 30, 2025    |
+| Alpha Submission Deadline | June 15, 2025    |
 | Beta Submission Deadline  | July 15, 2025   |
 | Final Submission Deadline | August 10, 2025 |
 | Results Announcement      | September 2025  |
