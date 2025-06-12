@@ -73,6 +73,7 @@ If you have any questions about registration, please feel free to contact us thr
 |team23 |PhyMap            |Fudan University                           |
 |team24 |ChandraMind       |Arizona State University*                  |
 |team25 |LOGIC101          |Arizona State University*                  |
+|team26 |Physical AI       |Arizona State University*                  |
 
 
 
