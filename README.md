@@ -87,7 +87,7 @@ If you have any questions about registration, please feel free to contact us thr
 | Contest Begins            | April 23, 2025  |
 | Registration Closes       | April 23, 2025  |
 | Alpha Submission Deadline | June 15, 2025    |
-| Beta Submission Deadline  | July 15, 2025   |
+| Beta Submission Deadline  | July 20, 2025   |
 | Final Submission Deadline | August 10, 2025 |
 | Results Announcement      | September 2025  |
 
